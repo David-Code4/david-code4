@@ -59,15 +59,6 @@ I enjoy building efficient, scalable applications and turning complex challenges
 </table>
 <br>
 
-<h2>Stats</h2>
-
-<p>
-  <a href='https://github.com/anuraghazra/github-readme-stats'>
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DilanRojasca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DilanRojasca&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-</p>
-
 <br>
 <p>
 <picture>
