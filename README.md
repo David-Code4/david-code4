@@ -22,7 +22,7 @@ I enjoy building efficient, scalable applications and turning complex challenges
   
 ### Contact
 <p>
-  <a href="https://www.linkedin.com/in/dilanrojasca/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+  <a href="www.linkedin.com/in/kevin-grisales-dev"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:agukevind@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
 </p>
 
